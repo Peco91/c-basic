@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.exe
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.deps.json
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.runtimeconfig.json
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.runtimeconfig.dev.json
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.dll
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\bin\Debug\netcoreapp3.1\home work 05 06 07.pdb
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\obj\Debug\netcoreapp3.1\home work 05 06 07.csprojAssemblyReference.cache
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\obj\Debug\netcoreapp3.1\home work 05 06 07.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\obj\Debug\netcoreapp3.1\home work 05 06 07.AssemblyInfo.cs
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\obj\Debug\netcoreapp3.1\home work 05 06 07.dll
+C:\Users\User\Desktop\home work 05 06 07 exercise\home work 05 06 07\obj\Debug\netcoreapp3.1\home work 05 06 07.pdb
